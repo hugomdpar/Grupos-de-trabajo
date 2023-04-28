@@ -1,8 +1,7 @@
 # Grupos-de-trabajo
 Grupo para proyeto integrador.
-Integrantes: 
+Integrantes; 
 Hugo Alberto Mendoza;
-
-Ceballos Gaston.
-Casco Carina.
+Ceballos Gaston;
+Casco Carina;
 Romero Sugey.
